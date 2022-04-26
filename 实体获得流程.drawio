@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T09:46:58.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="multMm5m14eZPHcIORrQ" type="github"><diagram id="MEIQ6gb2M93_IEY0--UO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-26T11:02:44.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nAPcHEMSU7Cnt-N3u0gj" version="17.4.6" type="github">
+  <diagram id="MEIQ6gb2M93_IEY0--UO" name="Page-1">
+    <mxGraphModel dx="1694" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="urgjYgWkpuBGBHrNiXu7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="urgjYgWkpuBGBHrNiXu7-1" target="urgjYgWkpuBGBHrNiXu7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="urgjYgWkpuBGBHrNiXu7-1" value="网络威胁情报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="urgjYgWkpuBGBHrNiXu7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="urgjYgWkpuBGBHrNiXu7-2" target="urgjYgWkpuBGBHrNiXu7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="urgjYgWkpuBGBHrNiXu7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="urgjYgWkpuBGBHrNiXu7-2" target="urgjYgWkpuBGBHrNiXu7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="urgjYgWkpuBGBHrNiXu7-2" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="urgjYgWkpuBGBHrNiXu7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="urgjYgWkpuBGBHrNiXu7-4" target="urgjYgWkpuBGBHrNiXu7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="urgjYgWkpuBGBHrNiXu7-4" value="正则匹配实体" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="urgjYgWkpuBGBHrNiXu7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="urgjYgWkpuBGBHrNiXu7-6" target="urgjYgWkpuBGBHrNiXu7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="urgjYgWkpuBGBHrNiXu7-6" value="NER模型识别实体" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="urgjYgWkpuBGBHrNiXu7-8" value="威胁情报实体" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
