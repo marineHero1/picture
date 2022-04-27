@@ -1,37 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T11:02:53.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="PT6LKE-AFUK1rvzshD-w" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-27T01:39:09.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="obmoZkXMxxjXc50hNabC" version="17.4.6" type="github">
   <diagram id="5000wWYRFKNpIYLFCaGx" name="Page-1">
-    <mxGraphModel dx="694" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="867" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wSXL5H9-m8K8YtFGEvlZ-1" target="wSXL5H9-m8K8YtFGEvlZ-4">
+        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="wSXL5H9-m8K8YtFGEvlZ-1" target="wSXL5H9-m8K8YtFGEvlZ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-1" value="威胁情报子图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="30" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-1" value="威胁情报子图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="30" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wSXL5H9-m8K8YtFGEvlZ-4" target="wSXL5H9-m8K8YtFGEvlZ-6">
+        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="wSXL5H9-m8K8YtFGEvlZ-4" target="wSXL5H9-m8K8YtFGEvlZ-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="394" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-4" value="节点、关系消歧去重" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-4" value="节点、关系消歧去重" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="200" y="240" width="144" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="wSXL5H9-m8K8YtFGEvlZ-6" target="wSXL5H9-m8K8YtFGEvlZ-10">
+        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="wSXL5H9-m8K8YtFGEvlZ-6" target="wSXL5H9-m8K8YtFGEvlZ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-6" value="子图关联" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-6" value="子图关联" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="390" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-10" value="威胁情报知识图谱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-10" value="威胁情报知识图谱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wSXL5H9-m8K8YtFGEvlZ-12" target="wSXL5H9-m8K8YtFGEvlZ-4">
+        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="wSXL5H9-m8K8YtFGEvlZ-12" target="wSXL5H9-m8K8YtFGEvlZ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-12" value="相似度比较算法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="200" y="340" width="144" height="60" as="geometry" />
+        <mxCell id="wSXL5H9-m8K8YtFGEvlZ-12" value="相似度比较算法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="200" y="140" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lX4BDaWkTmMj0286GXO2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="lX4BDaWkTmMj0286GXO2-1" target="wSXL5H9-m8K8YtFGEvlZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lX4BDaWkTmMj0286GXO2-1" value="CVE漏洞库&lt;br&gt;VT数据库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
