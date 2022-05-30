@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T12:49:32.566Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" version="18.0.7" etag="KCaqE6c8tQaKm5_uF5Iq" type="github"><diagram id="gMyYq_SOsFS3Y0U1oXn0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-30T13:06:04.548Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="BSSYmDR4myB3uaUWoqrG" version="18.0.7" type="github">
+  <diagram id="gMyYq_SOsFS3Y0U1oXn0" name="Page-1">
+    <mxGraphModel dx="751" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-1" value="研究背景和研究现状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-2" value="主要工作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-3" value="小结展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-4" value="第一章绪论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mlYT1lM4tuXmadhYzl6X-5" target="mlYT1lM4tuXmadhYzl6X-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-5" value="第二章相关技术研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="217" y="480" as="sourcePoint" />
+            <mxPoint x="217" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="260" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mlYT1lM4tuXmadhYzl6X-13" target="mlYT1lM4tuXmadhYzl6X-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-17" value="支撑" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mlYT1lM4tuXmadhYzl6X-15">
+          <mxGeometry x="-0.0211" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mlYT1lM4tuXmadhYzl6X-13" target="mlYT1lM4tuXmadhYzl6X-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-13" value="数据来源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="248" y="280" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mlYT1lM4tuXmadhYzl6X-14" target="mlYT1lM4tuXmadhYzl6X-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="287" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mlYT1lM4tuXmadhYzl6X-14" target="mlYT1lM4tuXmadhYzl6X-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="287" y="385" />
+              <mxPoint x="287" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-14" value="知识抽取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="248" y="360" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-19" value="第三章 网络威胁情报采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="290" width="179" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-20" value="第四章 基于数据增强的实体抽取方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="360" width="206" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-21" value="第五章 基于BERT的实体关系分类方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="390" width="206" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="480" as="sourcePoint" />
+            <mxPoint x="540" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlYT1lM4tuXmadhYzl6X-26" value="第六章&lt;br&gt;小结与展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="260" width="20" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
